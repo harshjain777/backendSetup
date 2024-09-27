@@ -1,0 +1,11 @@
+{
+  "name": "setupback",
+  "version": "1.0.0",
+  "description": "basic setup for backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harsh duggar",
+  "license": "ISC"
+}
